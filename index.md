@@ -101,8 +101,6 @@ end
 ![Branching](dachshund_1.jpg)
 
 
-### Definition lists can be used with HTML syntax.
-
 <dl>
 <dt>Name</dt>
 <dd>Godzilla</dd>
